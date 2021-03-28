@@ -10,3 +10,7 @@ Using unity to build a pinball game
 * Sphere movement
 * Collision 
 * Audio Play 
+
+### UI 
+![image](https://github.com/Todoorno/Pinball_game/blob/main/UI.PNG)
+
